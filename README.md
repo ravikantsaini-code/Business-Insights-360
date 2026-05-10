@@ -1,4 +1,4 @@
-# 📈Business-Insights-360
+# 📈Business Insights 360
 
 **Power BI Data Analysis Project**-
 AtliQ Hardware, experiencing rapid growth, has strategically adopted Power BI for data analytics. This implementation aims to deliver competitive superiority by enabling data-driven decisions across critical business functions: finance, sales, marketing, and supply chain operations.
