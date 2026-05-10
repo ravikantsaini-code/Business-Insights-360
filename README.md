@@ -12,7 +12,7 @@ AtliQ Hardware, experiencing rapid growth, has strategically adopted Power BI fo
 - **Core Purpose**: Outpace competitors via data-driven insights
 - **Coverage Areas**: Finance | Sales | Marketing | Supply Chain
 
- [Project Report](https://app.powerbi.com/view?r=eyJrIjoiZGNjYTk1NjYtZWViNS00ODViLWE5NmEtNTA0ZGEwMTAwZjE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ 🔗[Project Report](https://app.powerbi.com/view?r=eyJrIjoiZGNjYTk1NjYtZWViNS00ODViLWE5NmEtNTA0ZGEwMTAwZjE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # 🔧Tools Used
