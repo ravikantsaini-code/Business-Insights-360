@@ -99,5 +99,10 @@ AtliQ Hardware is a global company that sells computers and accessories through 
 The company entered a new market but started facing financial losses because business decisions were primarily based on intuition and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics and data-driven decision-making to improve performance and profitability.
 
 To address this challenge, the project focused on building an interactive Power BI dashboard that enables stakeholders to monitor sales, profitability, customer performance, and market trends effectively.
-
 The solution helps the company transition from intuition-based decisions to a data-driven business approach.
+
+# 🔌Data Import
+Data is imported from MySQL into Power BI using database credentials.
+
+# 🎨 Dashboard Design
+Dashboard is built based on stakeholder mockups and business requirements.
