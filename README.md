@@ -106,3 +106,8 @@ Data is imported from MySQL into Power BI using database credentials.
 
 # 🎨 Dashboard Design
 Dashboard is built based on stakeholder mockups and business requirements.
+
+# 📸Dashboard Preview
+
+🏠 **Home View**
+
