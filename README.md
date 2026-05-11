@@ -111,3 +111,24 @@ Dashboard is built based on stakeholder mockups and business requirements.
 
 🏠 **Home View**
 
+![Home View](Report%20Screenshots/Home.png)
+
+💲 **Finance View**
+
+![Finance](Report%20Screenshots/Finance.png)
+
+📈 **Sales View**
+
+![Sales](Report%20Screenshots/Sales.png)
+
+🌐 **Marketing View**
+
+![Marketing](Report%20Screenshots/Marketing.png)
+
+📦 **Supply Chain View**
+
+![Supply](Report%20Screenshots/Supply%20Chain.png)
+
+👑 **Executive View**
+
+![Executive](Report%20Screenshots/Executive.png)
